@@ -1,0 +1,6 @@
+https://towardsdatascience.com/grid-search-for-model-tuning-3319b259367e
+https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c
+https://towardsdatascience.com/what-metrics-should-we-use-on-imbalanced-data-set-precision-recall-roc-e2e79252aeba
+https://medium.com/all-things-ai/in-depth-parameter-tuning-for-gradient-boosting-3363992e9bae
+
+Precision is used as a metric when our objective is to minimize false positives and recall is used when the objective is to minimize false negatives.
